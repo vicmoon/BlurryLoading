@@ -17,7 +17,7 @@ html {
 }
 
 .bg {
-  background: url("city.jpg") no-repeat center center/cover;
+  background: url("image.jpg") no-repeat center center/cover;
   position: absolute;
   top: -30px;
   left: -30px;
